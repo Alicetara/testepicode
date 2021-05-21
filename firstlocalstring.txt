@@ -1,2 +1,3 @@
 First local string
 Modified from server
+Second local string from local branch
